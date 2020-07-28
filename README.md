@@ -11,6 +11,11 @@ Just clone this repo:
 git clone git@github.com:Waziup/sensorSim.git
 ```
 
+install
+--------
+
+npm install
+
 Run
 ---
 
